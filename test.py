@@ -3,7 +3,7 @@ import random
 import time
 
 global move_history
-
+#hello world
 def make_empty_board(sz):
     board = []
     for i in range(sz):
